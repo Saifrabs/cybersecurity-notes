@@ -11,13 +11,10 @@ This repository documents my daily cybersecurity learning, notes, practical exer
 ✅ Completed
 
 - ✅ Day 01 - Cybersecurity Fundamentals
-
-⏳ Upcoming
-
 - ✅ Day 02 - Security Policies
-- ⬜ Day 03 - Access Control
-- ⬜ Day 04 - Network Security
-- ⬜ Day 05 - Linux Basics
+- ✅ Day 03 - Access Control
+- ✅ Day 04 - Network Security
+- ✅ Day 05 - Linux Basics
 - ⬜ Day 06 - Cryptography Basics
 - ⬜ Day 07 - Types of Malware
 - ⬜ Day 08 - Phishing and Social Engineering
