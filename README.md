@@ -91,23 +91,3 @@ Future Cybersecurity Analyst | Bug Bounty Hunter | C++ & Python Learner
 ---
 
 «"Learning today, securing tomorrow." 🔐»
-
----
-
-## 🎯 Goal
-
-To become a skilled Cybersecurity Analyst, Bug Bounty Hunter, and Security Researcher by learning consistently every day.
-
----
-
-## 👨‍💻 Author
-
-**Saifullahi Rabi'u (SAIFRAB)**
-
-📍 Nigeria 🇳🇬
-
-🐦 X: @Saifrabs1
-
-💻 GitHub: github.com/Saifrabs
-
-> "Learning today, securing tomorrow."
