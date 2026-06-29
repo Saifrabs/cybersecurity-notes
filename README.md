@@ -14,7 +14,7 @@ This repository documents my daily cybersecurity learning, notes, practical exer
 
 ⏳ Upcoming
 
-- ⬜ Day 02 - Security Policies
+- ✅ Day 02 - Security Policies
 - ⬜ Day 03 - Access Control
 - ⬜ Day 04 - Network Security
 - ⬜ Day 05 - Linux Basics
